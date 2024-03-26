@@ -2,6 +2,8 @@
 <h3 align="center">A Fivem Lua Dev</h3>
 
 - 📫 How to reach me **clood.\_. on discord**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=clooddev)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank">
