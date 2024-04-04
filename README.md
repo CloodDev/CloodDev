@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on Tarkov 2D<br>
 🌱 I’m currently learning React<br>
-📫 How to reach me **clood.\_. on discord**
+📫 How to reach me **clood.\_.** on discord
 
 # 💻 Tech Stack:
 
