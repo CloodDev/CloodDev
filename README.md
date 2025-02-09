@@ -2,7 +2,7 @@
 <h3 align="center">A Fivem Lua Dev</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Tarkov 2D<br>🌱 I’m currently learning React<br>📫 How to reach me clood._. on discord
+🔭 I’m currently working on PD2MM<br>🌱 I’m currently learning React Electron<br>📫 How to reach me clood._. on discord
 
 
 # 💻 Tech Stack:
